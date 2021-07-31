@@ -1,0 +1,1 @@
+{"nstag": "math", "single": [], "double": ["menclose", "merror", "mfenced", "mfrac", "mlabeledtr", "mmultiscripts", "mover", "mpadded", "mphantom", "mroot", "mrow", "mspace", "msqrt", "mstyle", "msub", "msup", "msubsup", "mtable", "mtd", "mtr", "munder", "munderover"], "both": [], "special": {"math2html": ["mi", "mo", "mn", "ms", "mtext"], "html2math": ["mglyph"]}}
